@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=xiaosuyyds&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="right" width="400" src="https://githubcard.com/xiaosuyyds.svg?d=P3oO5rzb" />
 
 ### I'm Xiaosu
 A Student, and an ordinary programming enthusiast.
@@ -8,9 +8,9 @@ A Student, and an ordinary programming enthusiast.
 ### My Tech Stack
 
 *   **Languages:** Python
-*   **Frontend(a little):** HTML, CSS, JavaScript, Vue
+*   **Frontend(a little):** Vue, TypeScript
 *   **Backend:** Flask, FastAPI
-*   **Tools:** Git, Linux, VSCode, PyCharm
+*   **Tools:** Git, Linux, PyCharm, VSCode
 
 ### Some of My Projects
 
