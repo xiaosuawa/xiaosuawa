@@ -16,7 +16,7 @@ A Student, and an ordinary programming enthusiast.
 
 *   **[MuRainBot2](https://github.com/MuRainBot/MuRainBot2):** A lightweight Chatbot framework based on Python, compatible with the OneBot v11 protocol.
 *   **[murainbot-plugin-codeshare](https://github.com/xiaosuyyds/murainbot-plugin-codeshare):** A MuRainBot2 plugin for generating beautiful and shareable images of code.
-*   **[PowerBlur](https://github.com/xiaosuyyds/PowerBlur):** A PIL-based frosted glass effect.
+*   **[QtWebView2](https://github.com/xiaosuyyds/QtWebView2):** A lightweight and powerful WebView2 widget for Python Qt (PySide/PyQt) with a seamless JS bridge.
 *   **[PowerText](https://github.com/xiaosuyyds/PowerText):** A text renderer for Pillow that supports emojis, multiple fonts, automatic line wrapping, and automatic text truncation.
 
 If you like my projects, feel free to give them a Star – it’s your encouragement to me, thank you!
